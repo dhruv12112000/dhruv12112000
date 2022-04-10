@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Vashist</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" widht="40px" alt="coding" src="https://cdn.dribbble.com/users/2939235/screenshots/13948829/media/48dc1d6d2325ea5e67657e19202fd95a.png">
+<img align="center" widht="40px" alt="coding" src="https://github.com/dhruv12112000/dhruv12112000/blob/main/Black%20and%20Blue%20Modern%20Action%20Gaming%20Livestream%20Twitch%20Banner.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv12112000&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv12112000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv12112000" alt="dhruv12112000" /></a> </p>
